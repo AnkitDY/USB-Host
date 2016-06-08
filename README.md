@@ -1,0 +1,2 @@
+# USB-Host
+Code for USB host mass storage for lpc1768 which can be able to create, read, write and delete file and format the usb device. I am trying to port the example code of keil USB Host Mass storage in LPCXpresso. But i am getting errors as "#error "Standard file I/O library retarget requires ::Compiler:I/O:File software component from the 'Keil.ARM_Compiler' Pack!""  Please help me in porting this code or help me to install Middle ware crack  Thanks in advance.
